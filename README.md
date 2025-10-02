@@ -3,18 +3,21 @@ engenharia reversa do firmware de um ponto eletronico com biometria
 
 O objetivo deste projeto é realizar uma engenharia reversa de um ponto biometrico.
 descricao do firmware:
-modelo: KB-007
-Release Date: 2014-09-03
-Serial No.: 20140925557
-Firmware: WS306BV6 v2.01
-USB Model Parameter: 39322200
+- modelo: KB-007
+- Release Date: 2014-09-03
+- Serial No.: 20140925557
+- Firmware: WS306BV6 v2.01
+- USB Model Parameter: 39322200
+- Camera: GC0307-16
+- Baudrate: 38400
+- Device ID: 1
 
 descricao do hardware:
-SRDAM: ESMT M12L64164A
-micocontrolador / microprocessador: desconhecido ate o momento
-flash: WINBOND W25Q32FV
-a placa possui pinos de conexao UART, LAN-485, USB e mini USB.
-incrições na placa:
+- SRDAM: ESMT M12L64164A
+- micocontrolador / microprocessador: desconhecido ate o momento
+- flash: WINBOND W25Q32FV
+- a placa possui pinos de conexao UART, LAN-485, USB e mini USB.
+- incrições na placa:
   - AST6801WFS_V1.4
   - 2014.2.19.JKC
 
